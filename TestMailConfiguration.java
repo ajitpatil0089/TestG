@@ -336,5 +336,6 @@ public class AppMailConfigServiceImpl implements AppMailConfigService, AwsProjec
 		// TODO Auto-generated method stub
 
 	}
+System.out.println("LINE HAS BEEN ADDED TO CHECK STATUS");
 
 }

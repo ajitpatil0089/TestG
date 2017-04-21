@@ -1,0 +1,47 @@
+ http://192.168.2.200:8800/svn/buzzor/trunk/development/tteesstt
+
+//file path
+/home/shikha/rcm/customers/ba9dced8-453e-49a3-b627-d497a1f91b17/user/18D01ABF-F632-496A-B379-FC50EDEAB8C0/MA9SELDB2L3ATJVSLJHJQ/testapp/src/main/java/com/app/shared/appinsight/health
+
+//newly created projetc's URL
+Source Code Repository Url:	
+http://192.168.2.200:8800/svn/buzzor/examples/
+
+
+//important website for jgit
+http://www.codeaffine.com/2015/12/15/getting-started-with-jgit/
+
+//jgit api.
+http://download.eclipse.org/jgit/site/4.2.0-SNAPSHOT/apidocs/org/eclipse/jgit/api/CloneCommand.html
+
+//imporatant websites forSVN
+https://svnkit.com/javadoc/allclasses-noframe.html 
+
+//commond to check last added files in git
+git whatchanged --diff-filter=A
+
+
+//Git repository created by ajit patil
+https://github.com/ajitpatil0089/TestG
+
+
+//Git repository created in project already
+https://github.com/applifireAlgo/shoppingtwo.git
+
+
+//to install git cola
+apt-get install git-cola
+
+//imp web site for git source code
+https://www.eclipse.org/forums/index.php?t=msg&th=712141&goto=1314521&
+
+
+//git api
+http://gitimmersion.com/lab_10.html
+
+
+//ref for MySql
+Anshuman Sharma an indian author
+
+//Book reffered in college
+Database Management System Concepts by Korth, Silberschatz and Sudarshan.
