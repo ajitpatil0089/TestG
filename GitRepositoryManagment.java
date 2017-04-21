@@ -553,5 +553,5 @@ public class GitRepositoryManagment implements RepositoryManagement {
 
 		git.push().setProgressMonitor(new TextProgressMonitor()).setCredentialsProvider(new UsernamePasswordCredentialsProvider("applifire@algorhythm.co.in", "algo.2015")).call();
 	}
-
+		System.out.println("LINE HAS BEEN ADDED");
 }

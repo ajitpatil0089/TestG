@@ -1,0 +1,9 @@
+// generate entity
+//			for(int i = 0; i < validateJsonArr.length(); i++)
+//			{
+//				 JSONObject inputJSON = validateJsonArr.getJSONObject(i);
+//				 if(inputJSON.has("entityExisted"))
+//				 {
+//				createEntityService.callToCreateEntityJsonMethod(inputJSON);
+//				 }
+//			}
